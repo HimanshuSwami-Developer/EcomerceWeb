@@ -1,15 +1,8 @@
 # MERN E-COMMERCE TUTORIAL
 
-Hi! My name is **Abhishek Singh**, I have created this tutorial to teach MERN Stack for free on YouTube.
 
-# Prerequisite
 
-1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** . _I have made tutorial on each technology on YouTube , make sure to check it out_. **Links are Below respectively**
-2.  Node - https://youtu.be/BSO9C8Z-YV8
-3.  React - https://youtu.be/99kgUCIMboY
-4.  Express - https://youtu.be/teipbke8c4A\
-5.  MongoDB - https://youtu.be/AYDP1S5BbTo
-6.  RestApi - https://youtu.be/AhCSfuG9Jxw _(optional)_
+1.  Must have basic knowledge of **Node**, **React**, **Express**, **MongoDB** . 
 
 # Install Dependencies
 
@@ -39,9 +32,6 @@ CLOUDINARY_API_KEY
 CLOUDINARY_API_SECRET
 _fill each filed with your info respectively_
 
-## Author
-
-**Instagram** Click [Here](https://www.instagram.com/meabhisingh) **@meAbhiSingh**
-**YouTube** Click [Here](https://www.youtube.com/channel/UCO7afj9AUo0zV69pqEYhcjw/) **6 Pack Programmer**
-**LinkedIn** Click [Here](https://in.linkedin.com/in/meabhisingh) **@meAbhiSingh**
-**Twitter** Click [Here](https://twitter.com/meAbhi_Singh) **@meAbhi_Singh**
+## SnapShots
+![Screenshot from 2023-02-18 17-41-06](https://user-images.githubusercontent.com/96292598/219870434-c227200d-c5c7-49ea-adb9-c7f529daf613.png)
+![Screenshot from 2023-02-18 17-41-22](https://user-images.githubusercontent.com/96292598/219870447-258977bd-f8f3-479d-a940-8712fab9fc52.png)
